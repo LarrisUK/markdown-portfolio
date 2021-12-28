@@ -4,10 +4,10 @@
 - Acoustic measurement
 - Technical report writing
 - Signal processing
-- Designing and executing perceptual experiemnts (studies with humans)
+- Designing and executing perceptual experiments (studies with humans)
 - Data analysis
--- Quantitative
--- Qualitative
+	- Quantitative
+	- Qualitative
 
 ### *Project Examples*
 * Audio dataset for **DCASE machine learning challenge**
