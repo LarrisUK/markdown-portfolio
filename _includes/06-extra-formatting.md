@@ -1,5 +1,8 @@
 # Examples of extended formatting
 
+*** NOTE*** These don't all seem to display on github pages same as they do on github preview. 
+
+
 ## H2 header
 One of my favourite Cockerell Quotes:
 > Do what you say you're gonna do.
@@ -15,7 +18,7 @@ Peter | Cushing
 
 
 #### H4 header
-An example of inine code is `$ git push`.
+An example of inline code is `$ git push`.
 
 ***NOTE*** This requires a back tick *NOT* a single quote `'` !
 
